@@ -1,1 +1,0 @@
-Recognized Barcode:WIFI:T:WPA;P:12345612zxc;S:testcase_2;H:false;
